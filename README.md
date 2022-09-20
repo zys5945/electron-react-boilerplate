@@ -8,3 +8,7 @@ forked from [electron-react-boilerplate](https://github.com/electron-react-boile
 - licence
 - author
 - build
+
+### index.ejs
+
+- title
